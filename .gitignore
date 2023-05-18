@@ -1,3 +1,12 @@
+## Directories
+.vs/
+bin/
+bin-int/
+
+## Files
+*.user
+Makefile
+
 ## OSX artifacts
 .DS_Store
 
