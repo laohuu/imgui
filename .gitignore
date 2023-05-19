@@ -1,3 +1,14 @@
+# Directories
+.vs/
+bin/
+bin-int/
+cmake-build-debug/
+.idea/
+
+# Files
+
+*.vcxproj
+
 ## OSX artifacts
 .DS_Store
 
